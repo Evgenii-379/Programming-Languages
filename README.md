@@ -16,3 +16,18 @@ Windows computers are usually cheaper. MacBooks are often more expensive, but th
 
 In my opinion, Windows is better for general use and gaming. MacOS is great for people who like a simple and smooth system.
 
+
+
+
+
+## **Самостоятельное задание. Замените выделенные фразы на более естественные, чтобы текст выглядел нативнее**
+
+
+Hello!
+
+Thank you for reaching out to us. Based on your description and our experience, the issue appears to be related to your Windows OS. Please install the latest Windows updates—this should fix the problem. Restart your computer after installing the updates.
+
+If you need assistance with installing the updates or have any further questions about this issue, feel free to contact us.
+
+
+
