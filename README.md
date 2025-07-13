@@ -34,3 +34,34 @@ If you need assistance with installing the updates or have any further questions
 
 
 
+
+## **3. Написать короткий структурированный ответ.**
+
+## **Задание**
+ 
+ 
+Ниже проблема, с которой к вам обратился клиент. Напишите ему короткий структурированный ответ на английском:
+
+“Hi! I don’t seem to be able to subscribe to the newsletter on your company’s website. It asks me to type my email address and then, but when I type my email it says it’s not valid.” 
+
+## **Ответ:**
+
+Hi [Customer's Name],
+
+Thank you for reaching out!
+
+We're sorry you're having trouble subscribing to our newsletter. If you're receiving an "email not valid" message, please double-check the following:
+
+1. Make sure there are no extra spaces before or after your email.
+
+2. Ensure the email is in a correct format (e.g., name@example.com).
+
+3. Try using a different browser or clearing your browser cache.
+
+If the issue persists, please send us the email you'd like to subscribe with, and we’ll be happy to add it manually.
+
+Best regards,
+[Your Name]
+[Company Name] Support Team
+
+
