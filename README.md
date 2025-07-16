@@ -65,3 +65,52 @@ Best regards,
 [Company Name] Support Team
 
 
+
+## **Задание**
+ 
+## **Вопросы по заданию**
+ 
+ 
+Напишите свой bug report на примере реального бага, с которым работали или выберите один из багов из списка ниже.
+
+Варианты:
+
+1. Sign up button on the website is unclickable
+2. Complex website layout does not allow for a quick registration process
+3. When a user logs into your application from their Android smartphone, they encounter a font size and alignment defect
+
+
+## **Ответ по багу №3 :**
+
+Bug Report 
+
+ID: BUG-2025-07-16-001 
+
+Title: Incorrect font size and text alignment after login on Android devices 
+
+Priority: High 
+
+Severity: Major 
+
+Status: Open 
+
+Component: UI / Mobile Layout 
+
+Environment:
+
+- Device: Samsung Galaxy S21, Xiaomi Redmi Note 10
+
+- OS: Android 13
+
+- App version: 2.3.5
+
+- Network: Wi-Fi and 4G
+
+
+End
+
+
+
+
+
+
