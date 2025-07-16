@@ -66,7 +66,7 @@ Best regards,
 
 
 
-## **Задание**
+## **Задание: Напишите свой bug report**
  
 ## **Вопросы по заданию**
  
@@ -107,7 +107,6 @@ Environment:
 - Network: Wi-Fi and 4G
 
 
-End
 
 
 
