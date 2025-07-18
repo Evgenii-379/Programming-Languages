@@ -114,6 +114,57 @@ Environment:
 
 
 
+## **5. Задание:**
+ 
+ 
+Составьте предложения ниже в пассивный залоге.
+
+## **Сделайте упражнение ниже (нужно переделать предложения в пассивный залог):**
+
+1. I hope the HR will invite me to the technical interview.
+2. Apple released its first commercial computer in 1983.
+3. Yandex released Alice in 2017.
+4. People make 2 billion transactions on ebay every day.
+5. My colleagues often ask me how to learn JS from scratch.
+6. I need to update the OS once in a while.
+7. Colleagues have given me permission to share this information.
+8. My boss fired me because my performance was poor.
+9. We will finally sign the contract next week.
+10. We released the project and my boss promoted me
+
+
+## **Ответ:**
+
+1. I hope the HR will invite me to the technical interview.
+   I hope I will be invited to the technical interview (by the HR).
+
+2. Apple released its first commercial computer in 1983.
+   The first commercial computer was released by Apple in 1983.
+
+3. Yandex released Alice in 2017.
+   Alice was released by Yandex in 2017.
+
+4. People make 2 billion transactions on eBay every day.
+   2 billion transactions are made on eBay every day (by people).
+
+5. My colleagues often ask me how to learn JS from scratch.
+   I am often asked how to learn JS from scratch (by my colleagues).
+
+6. I need to update the OS once in a while.
+   The OS needs to be updated once in a while.
+
+7. Colleagues have given me permission to share this information.
+   I have been given permission to share this information (by colleagues).
+
+8. My boss fired me because my performance was poor.
+   I was fired (by my boss) because my performance was poor.
+
+9. We will finally sign the contract next week.
+   The contract will finally be signed next week (by us).
+
+10. We released the project and my boss promoted me.
+   The project was released, and I was promoted by my boss.
+
 
 
 
