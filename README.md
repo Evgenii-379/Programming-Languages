@@ -168,3 +168,38 @@ Environment:
 
 
 
+## **6. Задание**
+ 
+Ответьте на следующие вопросы (напишите текст или запишите аудио):
+
+- Do you know when the 1st computer was made? How was it different from what they look like now?
+- When was the last time you were invited to a job interview? How did it go?
+- Do you know any successful tech companies that were started in a garage? Who were they founded by?
+
+
+## **Ответ:**
+
+1. Do you know when the 1st computer was made? How was it different from what they look like now?
+
+- The first programmable electronic computer was the ENIAC, created in 1945. It was enormous, filling an entire room, and used vacuum tubes instead of modern microchips. 
+Unlike today's compact and fast computers, ENIAC was slow, consumed massive amounts of electricity, and required manual rewiring to perform different tasks. 
+Modern computers are millions of times faster, portable, and energy-efficient.
+
+2. When was the last time you were invited to a job interview? How did it go?
+
+- The last time I was invited to a job interview was a few months ago. It went well—I prepared thoroughly, answered technical questions confidently, and had a good discussion with the hiring manager. 
+However, I didn’t get the offer, but it was a valuable learning experience.
+
+3. Do you know any successful tech companies that were started in a garage? Who were they founded by?
+
+ Yes! Some famous examples:
+
+- Apple – Founded by Steve Jobs and Steve Wozniak in 1976.
+
+- Microsoft – Started by Bill Gates and Paul Allen in 1975 (though not strictly a garage, it began in a small space).
+
+- Google – Larry Page and Sergey Brin developed Google's early search engine in a garage in 1998.
+
+- Amazon – Jeff Bezos launched it from his garage in 1994.
+
+- HP (Hewlett-Packard) – Founded by Bill Hewlett and Dave Packard in a garage in 1939.
