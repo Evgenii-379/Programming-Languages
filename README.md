@@ -203,3 +203,22 @@ However, I didn’t get the offer, but it was a valuable learning experience.
 - Amazon – Jeff Bezos launched it from his garage in 1994.
 
 - HP (Hewlett-Packard) – Founded by Bill Hewlett and Dave Packard in a garage in 1939.
+
+
+
+## **7. Задание**
+
+
+- Ваша задача - посмотреть компиляцию видео и записать фразы, которые слышите (каждая фраза проиллюстрирована несколько раз). 
+После упражнения можете посмотреть ответы, чтобы убедиться, что правильно услышали все.
+
+## **Ответ:**
+
+- Come the go us
+- Black and white
+- Sometime you
+- Write now
+- I know 
+- So I must gif
+
+
