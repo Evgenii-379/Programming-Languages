@@ -235,3 +235,46 @@ However, I didn’t get the offer, but it was a valuable learning experience.
 6. Our goal
 
 Посмотрите видео еще раз, и убедитесь, что вы распознаете встречающееся словосочетание. Распознаете ли вы остальные слова в фразах?
+
+
+
+## **8. Задание**
+
+
+Заполните табличку фразами с обязанностями для разных профессий, используя фразы для питча из видео. Обратите внимание на примеры, которые были приведены в видео, 
+чтобы правильно согласовывались формы (I handle to do — нет, I handle troubleshooting — yes:
+
+
+## **Ответ:**
+
+
+|                                 |Backend developer                      | Business Analyst                         |  PM(Project Manager)                  |  DEVOPS Engineer                      | You                                 |
+|---------------------------------|---------------------------------------|------------------------------------------|---------------------------------------|---------------------------------------|-------------------------------------|
+|Handle                           |Handle API integration                 |Handle stakeholder requirements           |Handle project timelines               | Handle CI/CD pipelines                | Handle customer inquiries           |
+|In charge of / responsible for   |In charge of database optimization	  |Responsible for business process analysis |Responsible for team coordination      |In charge of infrastructure scalability| Responsible for social media content| 
+|My / their job is to             |My job is to debug performance issues  |Their job is to translate needs into specs|My job is to ensure deliverables       |Their job is to automate deployments   | My job is to organize team events   |
+|Oversee (control)            	  |Oversee server-side logic              |Oversee requirement documentation         |Oversee project progress               |Oversee system monitoring              |Oversee office supplies               |
+|Make sure that (guarantee)       |Make sure that APIs are secure         |Make sure that solutions align with goals |Make sure that deadlines are met       |Make sure that systems are reliable    |Make sure that reports are accurate  |
+|Right now …                      |Right now I’m optimizing queries       |Right now I’m analyzing market trends     |Right now I’m resolving a team conflict|Right now I’m configuring Kubernetes   |Right now I’m learning Python        |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
