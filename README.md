@@ -262,11 +262,39 @@ However, I didn’t get the offer, but it was a valuable learning experience.
 
 
 
+## **9. Задание**
+ 
+
+ 
+- Исправьте предложения, в которых есть ошибка. Если ошибки нет, оставьте предложение без изменений:
+
+1. Keep talking, I listen.
+2. What do you try to say?
+3. An average user is spending 5 hours a day on the phone.
+4. OK, I am understanding.
+5. What are you looking at? I can’t see anything.
+6. I’m wanting to become a front-end developer.
+7. 1. What do you doing?
+   2. I am a marketing manager.
+8. I am thinking of buying a new PC. Can you advise anything?
+9. Are you know how to fix the bug?
+10. I always try to work hard and meet deadlines.
 
 
+## ** Ответ : **
 
-
-
+1. Keep talking, I'm listening.
+2. What are you trying to say?
+3. An average user spends 5 hours a day on the phone.
+4. OK, I understand.
+5. What are you looking at? I can’t see anything.
+6. I want to become a front-end developer.
+7. 1. What are you doing?
+   2. I am a marketing manager.
+8. I am thinking of buying a new PC. Can you advise anything?
+9. Do you know how to fix the bug?
+10. I always try to work hard and meet deadlines.
+ 
 
 
 
