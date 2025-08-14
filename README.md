@@ -435,7 +435,7 @@ Evgenii Vukolov
 - email@example.com | +7 (XXX) XXX-XXXX
 - [LinkedIn](https:) | [GitHub](https:)
 
-[14.08.2025]
+- Data:  14.08.2025
 
 ## **Hiring Manager**
 [Company Name]
