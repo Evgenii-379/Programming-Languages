@@ -422,6 +422,63 @@ Professional Retraining: DevOps Engineer | 2023–2025
 
 
 
+## ** 11. Задание**
+
+- Напишите cover letter к своему резюме на позицию, на которую хотели бы/ планируете податься.
+
+
+## **Ответ:**
+
+Evgeny Vukolov
+
+ Omsk, Russia
+email@example.com | +7 (XXX) XXX-XXXX
+[LinkedIn](https:) | [GitHub](https:)
+
+[14.08.2025]
+
+## **Hiring Manager**
+[Company Name]
+[Company Address]
+
+**Subject:** Application for DevOps Engineer Position
+
+Dear [Hiring Manager's Name],
+
+I am interested in the DevOps Engineer position at [Company Name]. With knowledge and skills acquired during my training, along with hands-on experience working with AWS and Yandex Cloud, I would like to contribute to your team by helping build scalable and efficient infrastructure.
+
+## **My experience includes:**
+
+- **Infrastructure deployment and management:** Creating fault-tolerant Kubernetes clusters (kubeadm) using Terraform for infrastructure management in AWS (EC2, VPC, S3)
+
+- **Process automation:** Implementing CI/CD pipelines (GitLab CI/CD, GitHub Actions) to accelerate application deployment
+
+- **Monitoring:** Setting up and configuring monitoring systems (Prometheus + Grafana, ELK Stack) to track infrastructure and application health
+
+- **Reliability assurance:** Configuring load balancing (Nginx/HAProxy) to improve service availability
+
+- **Storage management:** Configuring S3 storage for application data
+
+Through projects such as deploying a highly available Kubernetes cluster in AWS with full CI/CD implementation, metrics and log monitoring, S3 storage organization, and load balancing configuration, I have gained practical experience in building and optimizing DevOps processes.
+
+I would welcome the opportunity to discuss how my experience could benefit your company. Thank you for considering my application.
+
+I'm currently expanding my skill set by actively learning Python to enhance my automation capabilities and develop more sophisticated DevOps solutions.
+I would welcome the opportunity to discuss how my experience could benefit your company. Thank you for considering my application.
+
+Best regards,
+**Evgeny Vukolov**
+
+
+
+
+
+
+
+
+
+
+
 
 
 
