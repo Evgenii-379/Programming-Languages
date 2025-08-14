@@ -307,7 +307,7 @@ However, I didn’t get the offer, but it was a valuable learning experience.
 DevOps Engineer Resume
 Evgeny [Your Last Name]
 - Omsk, Russia | email@example.com |+7 (XXX) XXX-XXXX
-- [LinkedIn] | [GitHub] | [HeadHunter]
+- [LinkedIn](https:) | [GitHub](https) | [HeadHunter](https)
 
 ## **Professional Summary**
 
