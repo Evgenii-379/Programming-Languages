@@ -298,6 +298,127 @@ However, I didn’t get the offer, but it was a valuable learning experience.
 
 
 
+## **10. Задание**
+
+
+- Практическое задание к блоку довольно предсказуемое: вам нужно будет составить собственное резюме на английском. Используйте фразы и советы из этого урока.
+
+
+DevOps Engineer Resume
+Evgeny [Your Last Name]
+- Omsk, Russia | email@example.com |+7 (XXX) XXX-XXXX
+- [LinkedIn] | [GitHub] | [HeadHunter]
+
+## **Professional Summary**
+
+DevOps Engineer with a strong foundation and hands-on experience in cloud platforms. Completed professional retraining in DevOps at Netology. Implemented academic and personal projects involving full-cycle infrastructure deployment in Yandex Cloud and AWS. Actively learning Python for automation. Ready to apply acquired knowledge in commercial projects.
+
+## **Technical Skills**
+
+ **Cloud Platforms:**
+
+- Yandex Cloud
+
+- AWS (EC2, S3, IAM, VPC)
+
+ **Containerization & Orchestration:**
+
+- Docker, Docker Compose
+
+- Kubernetes (Minikube, kubeadm)
+
+ **Infrastructure as Code (IaC):**
+
+- Terraform
+
+- Ansible (basic knowledge)
+
+
+ **CI/CD:**
+
+- GitHub Actions
+
+- GitLab CI/CD
+
+ **Monitoring & Logging:**
+
+- Prometheus + Grafana
+
+- ELK Stack (basic knowledge)
+
+ **Networking:**
+
+- Load Balancing (Nginx, HAProxy)
+
+- TCP/IP, DNS, VPN
+
+**Programming/Scripting:**
+
+- Bash
+
+- Python (learning, basic level)
+
+ **Operating Systems:**
+
+- Linux (Ubuntu, CentOS, Debian)
+
+- Windows Server (basic knowledge)
+
+ **Version Control:**
+
+- Git
+
+- GitLab
+
+- GitHub
+
+## **Education**
+
+ **Netology**
+
+Professional Retraining: DevOps Engineer | 2023–2025
+**Graduation Project:** "Automated Deployment in Yandex Cloud"
+
+- Deployment of a fault-tolerant Kubernetes cluster (kubeadm)
+
+- GitLab CI/CD pipeline configuration
+
+- Prometheus+Grafana monitoring setup
+
+- Nginx load balancing implementation
+
+## **Projects**
+
+**Web Application Deployment in AWS (Personal Project)**
+
+- Infrastructure automation using Terraform (EC2, VPC, S3)
+
+- Kubernetes cluster setup (kubeadm)
+
+- GitLab CI/CD pipeline implementation
+
+- Nginx load balancing configuration
+
+- Monitoring with Prometheus
+
+** Graduation Project in Yandex Cloud**
+
+- Deployment of a production-like environment
+
+- Auto-scaling configuration
+
+- GitLab CI/CD integration
+
+- Python scripting for automation
+
+**Additional Information**
+
+- **English:** Intermediate (technical documentation reading)
+
+- **Currently** learning: Python for DevOps, Advanced Kubernetes
+
+- **Open to internships and professional growth**
+
 
 
 
