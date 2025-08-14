@@ -281,7 +281,7 @@ However, I didn’t get the offer, but it was a valuable learning experience.
 10. I always try to work hard and meet deadlines.
 
 
-## ** Ответ : **
+## **Ответ:**
 
 1. Keep talking, I'm listening.
 2. What are you trying to say?
@@ -422,18 +422,18 @@ Professional Retraining: DevOps Engineer | 2023–2025
 
 
 
-## ** 11. Задание**
+## **11.Задание**
 
 - Напишите cover letter к своему резюме на позицию, на которую хотели бы/ планируете податься.
 
 
 ## **Ответ:**
 
-Evgeny Vukolov
+Evgenii Vukolov
 
  Omsk, Russia
-email@example.com | +7 (XXX) XXX-XXXX
-[LinkedIn](https:) | [GitHub](https:)
+- email@example.com | +7 (XXX) XXX-XXXX
+- [LinkedIn](https:) | [GitHub](https:)
 
 [14.08.2025]
 
@@ -467,7 +467,7 @@ I'm currently expanding my skill set by actively learning Python to enhance my a
 I would welcome the opportunity to discuss how my experience could benefit your company. Thank you for considering my application.
 
 Best regards,
-**Evgeny Vukolov**
+ **Evgenii Vukolov**
 
 
 
